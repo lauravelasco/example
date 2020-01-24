@@ -6,3 +6,4 @@ List of elements we need:
 1. A tent
 2. A wood
 3. A shoes
+4. A knife
