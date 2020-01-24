@@ -8,3 +8,4 @@ List of elements we need:
 3. A shoes
 4. A knife
 5. A sandwich
+6. sunscreen
